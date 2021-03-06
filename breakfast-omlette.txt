@@ -2,7 +2,7 @@ Description:
 A popular item on my breakfast menu. Omlette on toast.
 
 Ingredients:
-1 egg
+2 eggs
 1 small onion (finely chopped)
 1 small mushroom (finely chopped)
 1 slice of ham (finely sliced and diced)
